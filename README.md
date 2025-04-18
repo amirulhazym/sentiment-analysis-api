@@ -77,4 +77,4 @@ Streamlit for the web interface.
 PyTorch for the deep learning framework.
 
 Author
-Amirulhazym, AI/ML Enthusiast, UTM Electrical & Electronic Engineering Graduate
+Amirulhazym, AI/ML Enthusiast
