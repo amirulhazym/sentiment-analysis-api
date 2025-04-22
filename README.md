@@ -1,4 +1,4 @@
-Sentiment Analysis API
+Mini Project: Sentiment Analysis API
 
 Overview
 This mini-project is a web API that classifies text sentiment as Positive, Negative, or Neutral using the cardiffnlp/twitter-roberta-base-sentiment model from Hugging Face. Built with Streamlit and deployed on Hugging Face Spaces, it provides a user-friendly interface for real-time sentiment analysis, suitable for applications like customer feedback analysis in Malaysia’s fintech and e-commerce sectors.
