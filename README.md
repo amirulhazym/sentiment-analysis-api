@@ -1,6 +1,6 @@
 # Sentiment Analysis Web Application with RoBERTa and Streamlit
 
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/amirulhazym/sentiment-analysis-api)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/amirulhazym/mini-sentiment-analysis-api)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.11](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/downloads/release/python-3110/)
 
@@ -8,7 +8,7 @@
 This project is a web-based sentiment analysis application that classifies text as **Positive**, **Negative**, or **Neutral** using the `cardiffnlp/twitter-roberta-base-sentiment` RoBERTa model from Hugging Face. Built with **Streamlit** and deployed on **Hugging Face Spaces**, it offers a responsive interface for real-time analysis, ideal for customer feedback in Malaysia’s fintech (e.g., Grab, CIMB) and e-commerce (e.g., Shopee, Lazada) sectors. The project demonstrates skills in **NLP**, **model deployment**, and **web development**, aligning with Malaysia’s MyDIGITAL and Singapore’s Smart Nation initiatives.
 
 ## Live Demo
-[Try the application here](https://huggingface.co/spaces/amirulhazym/sentiment-analysis-api)
+[Try the application here](https://huggingface.co/spaces/amirulhazym/mini-sentiment-analysis-api)
 
 ## Features
 - **Real-Time Sentiment Classification**: Analyzes text with confidence scores and visual feedback (progress bar, bar chart).
