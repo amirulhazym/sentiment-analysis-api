@@ -12,8 +12,8 @@ st.set_page_config(
 )
 
 # App title and description
-st.title("Sentiment Analysis API")
-st.write("This API uses a pre-trained BERT model to classify text sentiment as positive, negative, or neutral.")
+st.title("Sentiment Analysis API Web Application")
+st.write("This API uses a pre-trained RoBERTa-base model to classify text sentiment as positive, negative, or neutral.")
 
 # Load the sentiment analysis model
 @st.cache_resource
@@ -163,7 +163,7 @@ with st.expander("Model Performance"):
         
 # Footer
 st.markdown("---")
-st.markdown("Mini Project 1: Sentiment Analysis API by Amirulhazym")
+st.markdown("Mini Project 3: Sentiment Analysis API Web Application with RoBERTa and Streamlit by Amirulhazym")
 
 # Add to your footer section
 st.markdown("""
