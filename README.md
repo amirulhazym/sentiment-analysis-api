@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Sentiment Analysis Web Application with RoBERTa and Streamlit
 
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/amirulhazym/mini-sentiment-analysis-api)
@@ -132,13 +131,3 @@ AI/ML Enthusiast | UTM Electrical & Electronic Engineering Graduate
 LinkedIn | GitHub | Portfolio
 
 © 2025 Amirulhazym
-=======
----
-title: 'Mini Project: Sentiment Analysis API'
-sdk: streamlit
-emoji: 📈
-colorFrom: yellow
-colorTo: blue
-sdk_version: 1.44.1
----
->>>>>>> 493dfdf027d4c8d0f8e5465ab0a910941166d775
