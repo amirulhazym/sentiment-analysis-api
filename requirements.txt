@@ -3,4 +3,8 @@ transformers==4.45.2
 torch==2.4.1
 numpy==1.26.4
 scipy==1.14.1
+<<<<<<< HEAD
 datasets==3.0.1
+=======
+datasets==3.0.1
+>>>>>>> 493dfdf027d4c8d0f8e5465ab0a910941166d775
