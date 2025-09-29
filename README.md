@@ -131,12 +131,3 @@ AI/ML Enthusiast | UTM Electrical & Electronic Engineering Graduate
 LinkedIn | GitHub | Portfolio
 
 © 2025 Amirulhazym
-=======
----
-title: 'Mini Project: Sentiment Analysis API'
-sdk: streamlit
-emoji: 📈
-colorFrom: yellow
-colorTo: blue
-sdk_version: 1.44.1
----
