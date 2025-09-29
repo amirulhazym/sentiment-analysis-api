@@ -179,5 +179,5 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 =======
-st.markdown("Created as part of Mini Project 1: Sentiment Analysis API")
+st.markdown("Mini Project 3: Sentiment Analysis API")
 >>>>>>> 493dfdf027d4c8d0f8e5465ab0a910941166d775
