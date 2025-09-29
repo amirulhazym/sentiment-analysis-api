@@ -8,7 +8,8 @@
 This project is a web-based sentiment analysis application that classifies text as **Positive**, **Negative**, or **Neutral** using the `cardiffnlp/twitter-roberta-base-sentiment` RoBERTa model from Hugging Face. Built with **Streamlit** and deployed on **Hugging Face Spaces**, it offers a responsive interface for real-time analysis, ideal for customer feedback in Malaysia’s fintech (e.g., Grab, CIMB) and e-commerce (e.g., Shopee, Lazada) sectors. The project demonstrates skills in **NLP**, **model deployment**, and **web development**, aligning with Malaysia’s MyDIGITAL and Singapore’s Smart Nation initiatives.
 
 ## Live Demo
-[Try the application here](https://huggingface.co/spaces/amirulhazym/mini-sentiment-analysis-api)
+### Link: [Try the application here](https://huggingface.co/spaces/amirulhazym/mini-sentiment-analysis-api)
+![main interface](images/ui/main_ui_hf.png)
 
 ## Features
 - **Real-Time Sentiment Classification**: Analyzes text with confidence scores and visual feedback (progress bar, bar chart).
